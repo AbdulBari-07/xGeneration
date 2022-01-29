@@ -33,7 +33,7 @@
         </div>
       </nav>
       
-      <h2><centre>Admin Screen - 1</centre></h2>
+      <h3><centre>Admin Screen - 1</centre></h3>
       <br>
       <div>
         <button color="pink" type="login">Open Market</button>
