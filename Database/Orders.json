@@ -1,0 +1,18 @@
+{
+    {sno:"1",
+    stockName:"dbs",
+    orderquantity:3,
+    ordertype:"limit",
+    executedquantity:50,
+    price:150,
+    orderstatus:"executed",
+    orderdate:"21-feb-2022"},
+    {sno:"2",
+    stockName:"dbs",
+    orderquantity:5,
+    ordertype:"market",
+    executedquantity:30,
+    price:150,
+    orderstatus:"Accepted",
+    orderdate:"25-feb-2022"}
+}
